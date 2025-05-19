@@ -1,4 +1,4 @@
-# moosend-coupons
+# Moosend Coupon Codes, Discount Deals & Offers in 2025
 
 Moosend is an email marketing tool that helps businesses send emails, build automation, and track their results. It’s made for people who want to grow their audience, increase sales, and save time — whether you're a small business, an online store, or a marketing team.
 
